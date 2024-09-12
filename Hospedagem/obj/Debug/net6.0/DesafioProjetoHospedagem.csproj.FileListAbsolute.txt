@@ -1,0 +1,5 @@
+C:\Projetos\Hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Projetos\Hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Projetos\Hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Projetos\Hospedagem\obj\Debug\net6.0\DesafioProjetoHospedagem.sourcelink.json
